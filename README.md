@@ -1,5 +1,5 @@
-# idahoCraftBreweries
-Idaho Craft Breweries (Geo)
+# Idaho Craft Breweries (geo)
+
 This repo provides a csv of Idaho craft breweries, based on the work that Bob Hubler has done at the [Boise Beer Culture website](http://mariah95.com/BEER/index.htm). We added addresses and geocoded his [table of past, present and future breweries](http://mariah95.com/BEER/IdahoBreweries.htm) in Idaho.
 
 This dataset was created for an October 2015 article in The Blue Review: [A Sudsy Mix of Beer and Taxes]( https://thebluereview.org/a-sudsy-mix-of-beer-and-taxes/).
